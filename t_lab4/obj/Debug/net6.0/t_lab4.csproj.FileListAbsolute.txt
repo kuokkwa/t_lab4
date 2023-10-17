@@ -1,0 +1,14 @@
+C:\Users\ХХХ\Documents\GitHub\t_lab4\t_lab4\bin\Debug\net6.0\t_lab4.exe
+C:\Users\ХХХ\Documents\GitHub\t_lab4\t_lab4\bin\Debug\net6.0\t_lab4.deps.json
+C:\Users\ХХХ\Documents\GitHub\t_lab4\t_lab4\bin\Debug\net6.0\t_lab4.runtimeconfig.json
+C:\Users\ХХХ\Documents\GitHub\t_lab4\t_lab4\bin\Debug\net6.0\t_lab4.dll
+C:\Users\ХХХ\Documents\GitHub\t_lab4\t_lab4\bin\Debug\net6.0\t_lab4.pdb
+C:\Users\ХХХ\Documents\GitHub\t_lab4\t_lab4\obj\Debug\net6.0\t_lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ХХХ\Documents\GitHub\t_lab4\t_lab4\obj\Debug\net6.0\t_lab4.AssemblyInfoInputs.cache
+C:\Users\ХХХ\Documents\GitHub\t_lab4\t_lab4\obj\Debug\net6.0\t_lab4.AssemblyInfo.cs
+C:\Users\ХХХ\Documents\GitHub\t_lab4\t_lab4\obj\Debug\net6.0\t_lab4.csproj.CoreCompileInputs.cache
+C:\Users\ХХХ\Documents\GitHub\t_lab4\t_lab4\obj\Debug\net6.0\t_lab4.dll
+C:\Users\ХХХ\Documents\GitHub\t_lab4\t_lab4\obj\Debug\net6.0\refint\t_lab4.dll
+C:\Users\ХХХ\Documents\GitHub\t_lab4\t_lab4\obj\Debug\net6.0\t_lab4.pdb
+C:\Users\ХХХ\Documents\GitHub\t_lab4\t_lab4\obj\Debug\net6.0\t_lab4.genruntimeconfig.cache
+C:\Users\ХХХ\Documents\GitHub\t_lab4\t_lab4\obj\Debug\net6.0\ref\t_lab4.dll
